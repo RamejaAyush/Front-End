@@ -53,7 +53,7 @@ Form: [Info here](https://www.w3schools.com/html/html_forms.asp)
 
 ![updated](https://github.com/RamejaAyush/Front-End/blob/HTML/Media/2_upStr.png?raw=true)
 
-If you noticed !doctype html and Meta tags then yours eyes are great.
+If you noticed !doctype html and Meta tags then your 👀 are great.
 
 So, <!DOCTYPE html> is just for declaration that you are using HTML5.
 
