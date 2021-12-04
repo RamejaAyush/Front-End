@@ -11,8 +11,9 @@ No This is Wrong.
 Every website has a unique IP Address through which we can access the website.
 
 - How Web Actually Works:
-  ![Front End](https://github.com/RamejaAyush/Front-End/blob/Web_working/Media/HowItWorks.png?raw=true)
-  \*note: Every website is actually stored into a server.
+
+![Front End](https://github.com/RamejaAyush/Front-End/blob/Web_working/Media/HowItWorks.png?raw=true)
+\*note: Every website is actually stored into a server.
 
 So, When we request for any website firstly it goes to DNS server.
 
