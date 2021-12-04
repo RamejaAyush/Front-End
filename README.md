@@ -49,6 +49,16 @@ There are way too many tags
 Table: [Info here](https://www.w3schools.com/html/html_tables.asp)
 Form: [Info here](https://www.w3schools.com/html/html_forms.asp)
 
+## HTML5 (Updated Code)
+
+![updated](https://github.com/RamejaAyush/Front-End/blob/HTML/Media/2_upStr.png?raw=true)
+
+If you noticed !doctype html and Meta tags then yours eyes are great.
+
+So, <!DOCTYPE html> is just for declaration that you are using HTML5.
+
+Meta Tags is telling information about you website. to read more [read this](https://www.brightedge.com/glossary/are-meta-tags-important)
+
 ## Authors
 
 - [@AyushRameja](https://www.github.com/ramejaayush)
