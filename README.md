@@ -1,36 +1,16 @@
-# How Web Works
+# Things you should know before starting
 
-## How we suppose web Works:
+In Web Development has two sides
 
-![Front End](https://github.com/RamejaAyush/Front-End/blob/Web_working/Media/Suppose.png?raw=true)
+- Frontend
+- Backend
 
-We suppose we search for website which has a unique URL and we get the site we are looking for.
+In simple words Backend stores the data and Frontend displays the data. Frontend takes data from backend and Shows it on a website.
 
-No This is Wrong.
+Where HTML is the structure, CSS is the styling and JS is the logic
 
-Every website has a unique IP Address through which we can access the website.
+# HTML
 
-## How Web Actually Works:
+HTML stands for Hyper Text Markup Language. HTML is the standard markup language for Web pages. It is used to describes the structure of a Web page.
 
-![Front End](https://github.com/RamejaAyush/Front-End/blob/Web_working/Media/HowItWorks.png?raw=true)
-\*note: Every website is actually stored into a server.
-
-So, When we request for any website firstly it goes to DNS server.
-
-### DNS server (Domain Name System Server):
-
-When a Web address (URL) is typed into a browser, DNS servers return the IP address of the Web server associated with that name. In this made-up example, the DNS converts the URL www.company.com into the IP address 204.0.8.51. Without DNS, you would have to type the series of four numbers and dots into your browser to retrieve the website, which you actually can do.
-
-So It means we can also access the web with the IP address?
-
-Yes we can access it.
-
-Try searching "142.250.190.78"
-
-## What happens when we gets the website files?
-
-We actually gets a copy of the website. We can access the code from the inspect element.
-
-## HTTPS
-
-![Front End](https://github.com/RamejaAyush/Front-End/blob/Web_working/Media/HTTPS.png?raw=true)
+HTML is all about tags, element and attributes. So, What are they?
