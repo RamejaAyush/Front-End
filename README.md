@@ -6,9 +6,9 @@
 
 It contains topics related to Front End Technologies.
 
-- [What Software we need?]()
-- [How Web works?]()
-- [HTML]()
+- [What Software we need?](https://github.com/RamejaAyush/Front-End/tree/software_needed)
+- [How Web works?](https://github.com/RamejaAyush/Front-End/tree/Web_working)
+- [HTML](https://github.com/RamejaAyush/Front-End/tree/HTML)
 - [CSS]()
 - [JavaScript]()
 - [What are frameworks and why we need them?]()
