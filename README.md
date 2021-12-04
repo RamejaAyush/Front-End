@@ -12,3 +12,7 @@ It contains topics related to Front End Technologies.
 - [CSS]()
 - [JavaScript]()
 - [What are frameworks and why we need them?]()
+
+## Authors
+
+- [@AyushRameja](https://www.github.com/ramejaayush)
